@@ -5,7 +5,7 @@
 A very minimalistic, serverside mutator that prevents dosh spam related exploits - server lags, server crash, blocking volume bypass, zed kills, etc.
 
 * Dedicated servers work fine since they have `bHighDetail` flag on false by default.
-* Listened server - you sick bastard, go install a dedi.
+* Listened server - you sick bastard, go install a dedi. Or go check how it's done in [Server Perks](https://forums.tripwireinteractive.com/index.php?threads/mut-per-server-stats.36898/).
 * Solo - just useless.
 
 ## Installation
