@@ -18,6 +18,8 @@ DoshFix.DoshFix
 
 At the moment of 2021.04.07 there are no dependencies.
 
+Use [KFCmdlet and it's batches](https://github.com/InsultingPros/KFCmdlet) for easy compilation.
+
 **EditPackages**
 
 ```cpp
