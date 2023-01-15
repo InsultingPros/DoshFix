@@ -1,6 +1,6 @@
 # Dosh Fix
 
-![GitHub all releases](https://img.shields.io/github/downloads/InsultingPros/DoshFix/total)
+[![GitHub all releases](https://img.shields.io/github/downloads/InsultingPros/DoshFix/total)](https://github.com/InsultingPros/DoshFix/releases)
 
 A very minimalistic, serverside mutator that prevents dosh spam related exploits - server lags, server crash, blocking volume bypass, zed kills, etc.
 
